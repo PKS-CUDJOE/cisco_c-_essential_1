@@ -10,7 +10,6 @@ int main(void) {
 	for(int i=0;i<7;i++){
 		auxilliary[i]=vector1[i];
 		vector2[6-i] = auxilliary[i];
-
 	}
 	
 
